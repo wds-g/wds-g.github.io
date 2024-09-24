@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\docs\\.vuepress",
+    "\\docs\\.vuepress\\public",
+    "\\docs\\.vuepress\\theme",
+    "\\docs\\.vuepress\\theme\\components",
+    "\\docs\\.vuepress\\theme\\styles",
+    "\\docs\\notes",
+    "\\docs\\notes\\demo",
+    "\\docs\\preview"
   ],
-  "SelectedNode": "\\D:\\Code\\wdsBlog",
+  "SelectedNode": "\\.github\\workflows\\deploy.yml",
   "PreviewInSolutionExplorer": false
 }
