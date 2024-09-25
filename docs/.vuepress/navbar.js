@@ -5,8 +5,5 @@ export const navbar = defineNavbarConfig([
   { text: '博客', link: '/blog/' },
   { text: '标签', link: '/blog/tags/' },
   { text: '归档', link: '/blog/archives/' },
-  {
-    text: '笔记',
-    items: [{ text: '示例', link: '/notes/devexpresswpf/保持原生WPF控件样式.md' }]
-  },
+  { text: '笔记',link:'/notes/'},
 ])
