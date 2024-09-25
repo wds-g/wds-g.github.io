@@ -9,7 +9,7 @@ const devexpresswpf = devexpresswpfNoteConfig({
 })
 
 
-export const notes = defineNotesConfig({
+export default defineNotesConfig({
   dir: '/notes/',
   link: '/',
   notes: [devexpresswpf]
