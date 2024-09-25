@@ -9,7 +9,7 @@ config:
     hero:
       name: 王大帅的博客
       tagline: 王大帅工作/生活/学习知识库
-      text: 小蒋我成功了
+      text: WPF Winform Blazor Asp.Net Core ESP32 Arduino STM32
       actions:
         -
           theme: brand
@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/wds-g/wds-g.github.io
 ---
