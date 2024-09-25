@@ -5,9 +5,7 @@ import {devexpresswpf,defineNotesConfig } from 'vuepress-theme-plume'
 const devexpresswpf = defineNoteConfig({
   dir: 'devexpresswpf',
   link: '/devexpresswpf/',
-  sidebar: [
-    '/保持原生WPF控件样式.md',
-  ]
+  sidebar: 'auto'
 })
 
 
